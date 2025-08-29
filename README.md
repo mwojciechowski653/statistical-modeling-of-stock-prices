@@ -91,7 +91,7 @@ statistical-modeling-of-stock-prices/
 
 - **Szymon Wierzejski**  
   [GitHub](https://github.com/Simikao)
-- **Marcin Wojciechowski**
+- **Marcin Wojciechowski**  
   [GitHub](https://github.com/mwojciechowski653)
 
 ## License
