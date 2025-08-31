@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project analyzes **stock prices of two publicly traded companies**: [11 bit studios](https://11bitstudios.com/pl/) and [Warner Music Group](https://www.wmg.com/) in 2022 using **R** – from data preparation and **log‑return** calculation, through tests of compliance with the normal distribution and one-/two‑dimensional distribution fitting, to **linear regression** and results **visualization**. The repository includes complete R scripts and a **LaTeX/PDF** report.
+This project analyzes **stock prices from 2022 of two publicly traded companies**: [11 bit studios](https://11bitstudios.com/pl/) and [Warner Music Group](https://www.wmg.com/) using **R** – from data preparation and **log‑return** calculation, through tests of compliance with the normal distribution and one-/two‑dimensional distribution fitting, to **linear regression** and results **visualization**. The repository includes complete R scripts and a **LaTeX/PDF** report.
 
 ### Main components
 
